@@ -1,0 +1,27 @@
+{
+  "name": "Nndmmd/Nemo",
+  "description": "A Simple PHP Framework based on Composer.",
+  "keywords": ["nemo", "framework"],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0",
+    "noahbuscher/macaw": "dev-master",
+    "illuminate/database": "*",
+    "filp/whoops": "*",
+    "nette/mail": "*",
+    "predis/predis": "*",
+    "smarty/smarty": "~3.1",
+    "nndmmd/doorman": "dev-master"
+  },
+  "autoload": {
+    "classmap": [
+      "app/controllers",
+      "app/models",
+      "services",
+      "classes"
+    ]
+  },
+  "config": {
+    "preferred-install": "dist"
+  }
+}
