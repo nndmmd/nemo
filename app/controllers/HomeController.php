@@ -8,7 +8,7 @@ class HomeController extends BaseController {
   {
     // mail sample
 /*
-    Mail::to('13888938787@163.com')->from('13888938787@163.com')
+    Mail::to('admin@nndmmd.com')->from('admini@nndmmd.com')
                           ->title('Foo Bar')
                           ->content('<h1>Hello~~</h1>')
                           ->send();

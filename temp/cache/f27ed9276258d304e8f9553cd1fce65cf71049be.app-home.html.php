@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.29, created on 2016-03-29 02:58:14
+/* Smarty version 3.1.29, created on 2016-03-29 04:20:57
   from "/var/www/html/nndmmd/nemo/app/views/app-home.html" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_56f9ef461594d0_59092052',
+  'unifunc' => 'content_56fa02a9939df9_26599714',
   'file_dependency' => 
   array (
     'f27ed9276258d304e8f9553cd1fce65cf71049be' => 
@@ -17,7 +17,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   ),
   'cache_lifetime' => 0,
 ),true)) {
-function content_56f9ef461594d0_59092052 ($_smarty_tpl) {
+function content_56fa02a9939df9_26599714 ($_smarty_tpl) {
 ?>
 <!DOCTYPE HTML>
 <html>
@@ -137,28 +137,28 @@ function content_56f9ef461594d0_59092052 ($_smarty_tpl) {
 		<tr> <td width="33.33%">
 		<img src="assets/images/app1.png" alt="app1" class="img-responsive radius"> 
 		<span class="label label-default radius">数据留声机</span>
-		<span class="badge badge-danger radius">79</span>
+		<span class="badge badge-danger radius">25</span>
 		</td> <td width="33.33%">
 		<img src="assets/images/app2.png" alt="app2" class="img-responsive radius"> 
 		<span class="label label-default radius">平台监控</span>
+		<span class="badge badge-danger radius">62</span>
+		</td> <td width="33.33%">
+		<img src="assets/images/app3.png" alt="app3" class="img-responsive radius"> 
+		<span class="label label-default radius">豆果美食</span>
+		<span class="badge badge-danger radius">69</span>
+		</td> </tr>
+		<tr> <td width="33.33%">
+		<img src="assets/images/app4.png" alt="app1" class="img-responsive radius"> 
+		<span class="label label-default radius">排班神器</span>
+		<span class="badge badge-danger radius">12</span>
+		</td> <td width="33.33%">
+		<img src="assets/images/app5.png" alt="app2" class="img-responsive radius"> 
+		<span class="label label-default radius">云主机</span>
 		<span class="badge badge-danger radius">51</span>
 		</td> <td width="33.33%">
-		<img src="assets/images/app3.png" alt="app3" class="img-responsive radius"> 
-		<span class="label label-default radius">豆果美食</span>
-		<span class="badge badge-danger radius">74</span>
-		</td> </tr>
-		<tr> <td width="33.33%">
-		<img src="assets/images/app4.png" alt="app1" class="img-responsive radius"> 
-		<span class="label label-default radius">排班神器</span>
-		<span class="badge badge-danger radius">95</span>
-		</td> <td width="33.33%">
-		<img src="assets/images/app5.png" alt="app2" class="img-responsive radius"> 
-		<span class="label label-default radius">云主机</span>
-		<span class="badge badge-danger radius">6</span>
-		</td> <td width="33.33%">
 		<img src="assets/images/app6.png" alt="app3" class="img-responsive radius"> 
 		<span class="label label-default radius">社区金融</span>
-		<span class="badge badge-danger radius">6</span>
+		<span class="badge badge-danger radius">69</span>
 		</td> </tr>
 		</tbody>
 	</table>
@@ -167,28 +167,28 @@ function content_56f9ef461594d0_59092052 ($_smarty_tpl) {
 		<tr> <td width="33.33%">
 		<img src="assets/images/app1.png" alt="app1" class="img-responsive radius"> 
 		<span class="label label-default radius">数据留声机</span>
-		<span class="badge badge-danger radius">89</span>
+		<span class="badge badge-danger radius">50</span>
 		</td> <td width="33.33%">
 		<img src="assets/images/app2.png" alt="app2" class="img-responsive radius"> 
 		<span class="label label-default radius">平台监控</span>
-		<span class="badge badge-danger radius">94</span>
+		<span class="badge badge-danger radius">73</span>
 		</td> <td width="33.33%">
 		<img src="assets/images/app3.png" alt="app3" class="img-responsive radius"> 
 		<span class="label label-default radius">豆果美食</span>
-		<span class="badge badge-danger radius">50</span>
+		<span class="badge badge-danger radius">48</span>
 		</td> </tr>
 		<tr> <td width="33.33%">
 		<img src="assets/images/app4.png" alt="app1" class="img-responsive radius"> 
 		<span class="label label-default radius">排班神器</span>
-		<span class="badge badge-danger radius">9</span>
-		</td> <td width="33.33%">
-		<img src="assets/images/app5.png" alt="app2" class="img-responsive radius"> 
-		<span class="label label-default radius">云主机</span>
 		<span class="badge badge-danger radius">28</span>
 		</td> <td width="33.33%">
+		<img src="assets/images/app5.png" alt="app2" class="img-responsive radius"> 
+		<span class="label label-default radius">云主机</span>
+		<span class="badge badge-danger radius">15</span>
+		</td> <td width="33.33%">
 		<img src="assets/images/app6.png" alt="app3" class="img-responsive radius"> 
 		<span class="label label-default radius">社区金融</span>
-		<span class="badge badge-danger radius">49</span>
+		<span class="badge badge-danger radius">19</span>
 		</td> </tr>
 		</tbody>
 	</table>
@@ -197,28 +197,28 @@ function content_56f9ef461594d0_59092052 ($_smarty_tpl) {
 		<tr> <td width="33.33%">
 		<img src="assets/images/app1.png" alt="app1" class="img-responsive radius"> 
 		<span class="label label-default radius">数据留声机</span>
-		<span class="badge badge-danger radius">77</span>
+		<span class="badge badge-danger radius">61</span>
 		</td> <td width="33.33%">
 		<img src="assets/images/app2.png" alt="app2" class="img-responsive radius"> 
 		<span class="label label-default radius">平台监控</span>
-		<span class="badge badge-danger radius">52</span>
+		<span class="badge badge-danger radius">59</span>
 		</td> <td width="33.33%">
 		<img src="assets/images/app3.png" alt="app3" class="img-responsive radius"> 
 		<span class="label label-default radius">豆果美食</span>
-		<span class="badge badge-danger radius">6</span>
+		<span class="badge badge-danger radius">43</span>
 		</td> </tr>
 		<tr> <td width="33.33%">
 		<img src="assets/images/app4.png" alt="app1" class="img-responsive radius"> 
 		<span class="label label-default radius">排班神器</span>
-		<span class="badge badge-danger radius">60</span>
+		<span class="badge badge-danger radius">78</span>
 		</td> <td width="33.33%">
 		<img src="assets/images/app5.png" alt="app2" class="img-responsive radius"> 
 		<span class="label label-default radius">云主机</span>
-		<span class="badge badge-danger radius">69</span>
+		<span class="badge badge-danger radius">22</span>
 		</td> <td width="33.33%">
 		<img src="assets/images/app6.png" alt="app3" class="img-responsive radius"> 
 		<span class="label label-default radius">社区金融</span>
-		<span class="badge badge-danger radius">78</span>
+		<span class="badge badge-danger radius">16</span>
 		</td> </tr>
 		</tbody>
 	</table>
