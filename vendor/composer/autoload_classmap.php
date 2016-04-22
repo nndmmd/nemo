@@ -228,4 +228,5 @@ return array(
     'TP_yyStackEntry' => $vendorDir . '/smarty/smarty/libs/sysplugins/smarty_internal_templateparser.php',
     'TP_yyToken' => $vendorDir . '/smarty/smarty/libs/sysplugins/smarty_internal_templateparser.php',
     'TestController' => $baseDir . '/app/controllers/TestController.php',
+    'Utility' => $baseDir . '/classes/Utility.php',
 );

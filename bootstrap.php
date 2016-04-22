@@ -20,6 +20,7 @@ require BASE_PATH.'/vendor/autoload.php';
 // Eloquent ORM
 $capsule = new Capsule;
 $capsule->addConnection(require BASE_PATH.'/config/database.php');
+$capsule->setAsGlobal(); // 设置全局静态可访问后续方可使用Capsule::xxxxx
 $capsule->bootEloquent();
 
 // whoops: php errors for cool kids
