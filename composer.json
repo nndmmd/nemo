@@ -11,7 +11,8 @@
     "nette/mail": "*",
     "predis/predis": "*",
     "smarty/smarty": "~3.1",
-    "nndmmd/doorman": "dev-master"
+    "nndmmd/doorman": "dev-master",
+    "gregwar/captcha": "1.*"
   },
   "autoload": {
     "classmap": [
