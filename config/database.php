@@ -5,7 +5,7 @@ return [
   'host'      => 'localhost',
   'database'  => 'tinydb',
   'username'  => 'root',
-  'password'  => 'cfwlsqydckyhgl!@#123',
+  'password'  => 'password',
   'charset'   => 'utf8',
   'collation' => 'utf8_general_ci',
   'prefix'    => ''
