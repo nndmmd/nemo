@@ -11,6 +11,9 @@ define('VIEW_BASE_PATH', BASE_PATH.'/app/views/');
 $config = require BASE_PATH.'/config/config.php';
 define('BASE_URL', $config['base_url']);
 
+// HOME_URL
+define('HOME_URL',dirname($_SERVER['PHP_SELF']));
+
 // TIME_ZONE
 date_default_timezone_set($config['time_zone']);
 
